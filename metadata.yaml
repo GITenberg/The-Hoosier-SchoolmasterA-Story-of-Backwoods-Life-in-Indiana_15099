@@ -1,0 +1,52 @@
+_repo: The-Hoosier-SchoolmasterA-Story-of-Backwoods-Life-in-Indiana_15099
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Starkweather, William Edward Bloomfield
+    alias: Starkweather, W. E. B. (William Edward Bloomfield)
+    birthdate: 1876
+    deathdate: 1969
+    gutenberg_agent_id: '34894'
+    url: http://www.gutenberg.org/2009/agents/34894
+  - agent_name: Opper, Frederick Burr
+    alias: Opper, F. (Frederick)
+    birthdate: 1857
+    deathdate: 1937
+    gutenberg_agent_id: '9918'
+    url: http://www.gutenberg.org/2009/agents/9918
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: "The Hoosier Schoolmaster: A Story of Backwoods Life in Indiana is an\
+  \ 1871 novel by the American author Edward Eggleston. The novel originated from\
+  \ a series of stories written for Hearth and Home, a periodical edited by Eggleston,\
+  \ and was based on the experiences of his brother, George Cary Eggleston, who had\
+  \ been a schoolteacher in Indiana. The novel is noted for its realistic depictions\
+  \ of 19th-century American rural life and for its use of local dialect.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15099'
+  wikidata: Q7740231
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Indiana -- Fiction'
+- !lcsh 'Country homes -- Fiction'
+- !lcc 'PS'
+title: 'The Hoosier Schoolmaster: A Story of Backwoods Life in Indiana'
+url: http://www.gutenberg.org/ebooks/15099
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Hoosier_Schoolmaster_(novel)
